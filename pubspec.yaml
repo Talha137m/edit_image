@@ -36,6 +36,13 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   image_picker: ^1.0.1
+  permission_handler: 
+  path_provider:
+  open_file:
+  device_info_plus:
+  ffmpeg_kit_flutter:
+  uuid:
+  rich_console:
  
 
 dev_dependencies:
